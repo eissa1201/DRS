@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.Profile"
+  BackgroundImage="A1.jpg"
+                 xmlns:local="clr-namespace:DRS;assembly=DRS">
+
+  <StackLayout>
+
+    <!--<Image Source="LOGO.png"   VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>-->
+
+    <ContentView Padding="0,10,0,0" >
+      <Grid >
+        <Grid.RowDefinitions>
+
+          <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+        <Label Text="Username :"  VerticalOptions="Center" Grid.Row="4"  Grid.Column="0"   FontAttributes="Bold" FontSize="24"  TextColor="Black"
+                     HorizontalOptions="StartAndExpand"/>
+        <local:EntryTitle TextColor="Black"   Placeholder="Enter Username"
+                     Grid.Row="4" Grid.Column="1" VerticalOptions="Center"
+                     HorizontalOptions="Fill"
+                     BackgroundColor="Transparent" x:Name="Username" />
+
+
+
+        <Label Text="Email :"  VerticalOptions="Center" Grid.Row="5"  Grid.Column="0"  FontAttributes="Bold" FontSize="24"  TextColor="Black"
+                     HorizontalOptions="StartAndExpand"/>
+        <local:EntryTitle TextColor="Black"   Placeholder="Enter Email"
+                      Grid.Row="5" Grid.Column="1"  VerticalOptions="Center"
+                      HorizontalOptions="Fill"
+                      BackgroundColor="Transparent" x:Name="Email" />
+
+
+
+        <Label Text="Password :"  VerticalOptions="Center" Grid.Row="6"  Grid.Column="0" FontAttributes="Bold" FontSize="24"  TextColor="Black"
+                     HorizontalOptions="StartAndExpand"/>
+        
+        <local:EntryTitle   TextColor="Black"   Placeholder="Enter Password "
+             Grid.Row="6" Grid.Column="1" 
+             VerticalOptions="Center"
+             HorizontalOptions="Fill" BackgroundColor="Transparent" x:Name="Password" />
+
+
+        
+        <Label Text="Phonenumber :"  VerticalOptions="Center" Grid.Row="7"  Grid.Column="0" FontAttributes="Bold" FontSize="24"  TextColor="Black"
+                     HorizontalOptions="StartAndExpand"/>
+
+        <local:EntryTitle   TextColor="Black"   Placeholder="Enter Mobile Number"
+              Grid.Row="7"  Grid.Column="1" VerticalOptions="Center"
+              HorizontalOptions="Fill"
+              BackgroundColor="Transparent"   x:Name="Phonenumber" />
+
+      </Grid>
+
+   
+    </ContentView >
+
+    <Button FontSize="30"  WidthRequest="200" HeightRequest="100"
+         Text="Register" VerticalOptions="EndAndExpand"
+         HorizontalOptions="FillAndExpand"   BackgroundColor="Purple" Clicked="Submit"  TextColor="White"  />
+
+
+
+  </StackLayout>
+  
+  </ContentPage>

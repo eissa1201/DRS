@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.Menu" BackgroundImage="A1.jpg"
+               xmlns:i18n="clr-namespace:DRS;assembly=DRS">
+
+
+  <StackLayout >
+    <Image Source="LOGO.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Scale="0.8"/>
+
+    <Grid>
+
+      <Grid.RowDefinitions>
+
+        <RowDefinition Height="*"></RowDefinition>
+
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+
+        <ColumnDefinition Width="*"></ColumnDefinition>
+
+      </Grid.ColumnDefinitions>
+
+      <Label HorizontalOptions="CenterAndExpand"  Grid.Row="0" Text="Loading Name" FontAttributes="Bold"   TextColor="Black"  FontSize="37"  x:Name="use" />
+
+      <Button  Grid.Row="1" Text="{i18n:TranslateExtension Text=FindDoctor}" BackgroundColor="Purple"  BorderColor="Transparent" FontSize="30"  TextColor="White" WidthRequest="80"  HeightRequest="80"  Clicked="FindDoctor" x:Name="Find"  />
+      <Button  Grid.Row="2" Text="{i18n:TranslateExtension Text=CreateDoctor}"   BackgroundColor="Purple"  BorderColor="Transparent" FontSize="30"  TextColor="White" WidthRequest="80"  HeightRequest="80" Clicked="moveTo"  x:Name="Create" />
+      <Button  Grid.Row="3" Text="{i18n:TranslateExtension Text=Profile}"   BackgroundColor="Purple"  BorderColor="Transparent" FontSize="30"  TextColor="White" WidthRequest="80"  HeightRequest="80" Clicked="Profile"   x:Name="Edit"/>
+      <Button  Grid.Row="4" Text="{i18n:TranslateExtension Text=Settings}"   BackgroundColor="Purple"  BorderColor="Transparent" FontSize="30"  TextColor="White" WidthRequest="80"  HeightRequest="80" Clicked="Settings"   x:Name="options"/>
+      <Button  Grid.Row="5" Text="{i18n:TranslateExtension Text=SignOut}"   BackgroundColor="Purple"  BorderColor="Transparent" FontSize="30"  TextColor="White" WidthRequest="80"  HeightRequest="80" Clicked="SignOut"   x:Name="Out"/>
+
+      <!--<Button  Grid.Row="6" Text="Chat"   BackgroundColor="Purple"  BorderColor="Transparent" FontSize="30"  TextColor="White" WidthRequest="80"  HeightRequest="80" Clicked="GroupChat"   x:Name="Out"/>-->
+
+
+    </Grid>
+  </StackLayout>
+
+
+
+</ContentPage>

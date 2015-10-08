@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.SpecialitySearch" BackgroundImage="List.jpg">
+  <StackLayout>
+    <Grid >
+      <Grid.RowDefinitions>
+
+        <RowDefinition Height="Auto"/>
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="100"></ColumnDefinition>
+      </Grid.ColumnDefinitions>
+
+      <Entry  Grid.Row="0" Grid.Column="0" Placeholder="search here" TextColor="Black"
+              VerticalOptions="Center" HorizontalOptions="Fill" BackgroundColor="Transparent"/>
+
+
+      <Image Source="searchb1.png" VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="1"     />
+      <Button VerticalOptions="Fill" HorizontalOptions="Fill" Grid.Row="0" Grid.Column="1"  BorderColor="Transparent" BackgroundColor="Transparent"/>
+
+
+
+    </Grid>
+
+    <TableView >
+      <TableView.Root>
+        <TableSection>
+          <TextCell    Text="{Binding Cell1}" TextColor="White"/>
+          <TextCell    Text="{Binding Cell2}" TextColor="White"/>
+          <TextCell    Text="{Binding Cell3}" TextColor="White"/>
+          <TextCell    Text="{Binding Cell4}" TextColor="White"/>
+          <TextCell    Text="{Binding Cell5}" TextColor="White"/>
+          <TextCell    Text="{Binding Cell6}" TextColor="White"/>
+          <TextCell    Text="{Binding Cell7}" TextColor="White"/>
+          
+        </TableSection>
+      </TableView.Root>
+    </TableView>
+    <Button FontSize="30"
+               Text="to Doctors list" VerticalOptions="Center"
+               HorizontalOptions="FillAndExpand" Clicked="Next" BackgroundColor="Transparent"/>
+  </StackLayout>
+</ContentPage>

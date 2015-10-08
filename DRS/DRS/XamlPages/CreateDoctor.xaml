@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.CreateDoctor" BackgroundImage="A1.jpg"
+             xmlns:local="clr-namespace:DRS;assembly=DRS"
+                  xmlns:i18n="clr-namespace:DRS;assembly=DRS"
+             
+             >
+
+  <StackLayout >
+
+
+    <ContentView Padding="0,0,0,0">
+      <Grid >
+        <Grid.RowDefinitions>
+
+          <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+        <local:EntryTitle Placeholder="Write Your Doctor's Name"   Grid.Row="1"  x:Name="DoctorName" BackgroundColor="Transparent"  VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" />
+
+        <Label  Grid.Row="2" x:Name="thePickerlabel" Text="{i18n:Translate DoctorsCity}" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"    FontAttributes="Bold" TextColor="Purple" FontSize="30"/>
+        <local:ListOfCities Grid.Row="3" x:Name="ListOfCities" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Title="Cities"  IsVisible="False"   />
+        <ActivityIndicator Color="Black"  IsRunning="true" Grid.Row="3"  WidthRequest="50"   x:Name="Loading1"   />
+
+        <Label  Grid.Row="4" x:Name="thePicker2label" Text="{i18n:Translate DoctorsHospital}" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"  FontAttributes="Bold" TextColor="Purple" IsVisible="False"  FontSize="30" />
+        <!--<Picker Grid.Row="5" x:Name="ListOfHospitals"  VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand" Title="Hospitals" IsVisible="False"   />-->
+
+        <ActivityIndicator Color="Black"  IsRunning="False" Grid.Row="5"  WidthRequest="50"   x:Name="Loading2"   />
+        <local:ListOfCities Grid.Row="5" x:Name="ListOfHospitals"  VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand" Title="Hospitals" IsVisible="False"   />
+
+        <Label  Grid.Row="6" x:Name="thePicker3label" Text="{i18n:Translate DoctorsSpeciality}" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"  FontAttributes="Bold" TextColor="Purple" IsVisible="False"  FontSize="30" />
+        <local:ListOfCities Grid.Row="7" x:Name="ListOfSpecialties" VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand"  Title="Specialties" IsVisible="False"   />
+        <ActivityIndicator Color="Black"  IsRunning="False" Grid.Row="7"  WidthRequest="50" IsVisible="False"  x:Name="Loading3"   />
+
+        <ActivityIndicator Color="Black"  IsRunning="False" Grid.Row="8"  WidthRequest="50"   x:Name="CreateLoading"   />
+
+
+
+
+
+
+      </Grid>
+    </ContentView >
+
+    <Grid >
+      <Grid.RowDefinitions>
+
+        <RowDefinition Height="150"></RowDefinition>
+
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="Auto"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="Auto"></ColumnDefinition>
+
+      </Grid.ColumnDefinitions>
+
+      <Button Grid.Row="0" Grid.Column="1"   WidthRequest="300" HeightRequest="100"
+              VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand" Text="Create"
+              BorderColor="Black" Clicked="Picker" BackgroundColor="Purple" TextColor="White" FontSize="30"
+              x:Name="CreateUser"/>
+
+
+
+
+    </Grid>
+
+  </StackLayout>
+</ContentPage>

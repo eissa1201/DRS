@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.DoctorRating" BackgroundImage="A1.jpg"
+    xmlns:local="clr-namespace:DRS;assembly=DRS">
+
+
+  <StackLayout>
+
+    <Grid >
+      <Grid.RowDefinitions>
+
+        <RowDefinition Height="Auto"></RowDefinition>
+        <RowDefinition Height="Auto"></RowDefinition>
+        <RowDefinition Height="Auto"></RowDefinition>
+        <RowDefinition Height="Auto"></RowDefinition>
+        <RowDefinition Height="Auto"></RowDefinition>
+
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+
+        <ColumnDefinition Width="Auto"></ColumnDefinition>
+
+      </Grid.ColumnDefinitions>
+
+
+      <Label TextColor="Black"  FontSize="22"   x:Name="Information" Grid.Row="0" HeightRequest ="200"  BackgroundColor="Transparent" VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand" />
+      <ActivityIndicator Color="Black"  Grid.Row="0" IsRunning="true"  WidthRequest="50" IsVisible="False"  x:Name="loading"   />
+      <Label TextColor="Black" Text="Rate this Doctor"  x:Name="RatingLable" Grid.Row="1" FontSize="30"  BackgroundColor="Transparent" VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand" />
+
+      <local:ListOfCities Grid.Row="1" x:Name="Rating" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Title="Rate this Doctor"  IsVisible="True"   />
+
+
+      <Entry Grid.Row="2" Grid.Column="0"     Placeholder="Write a comment"  
+            VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand"   x:Name="Comment"
+              BackgroundColor="Gray"
+              />
+      <ActivityIndicator Color="Black"  Grid.Row="2" Grid.Column="0"   IsRunning="true"  WidthRequest="50" IsVisible="False"  x:Name="PostingComment"   />
+
+
+      <Button Grid.Row="3" Grid.Column="0"    HeightRequest="100"
+            VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand" Text="Post Comment"
+             BorderColor="Black"  BackgroundColor="Purple" TextColor="White" FontSize="25" Clicked="SubmitComment"
+           />
+      <Button Grid.Row="3" Grid.Column="0"    HeightRequest="100"
+         VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand"
+          BorderColor="Black"  BackgroundColor="Transparent"  IsVisible="False"   x:Name="Cover"
+           />
+
+
+
+
+      <ListView x:Name="listView"  HasUnevenRows="true" Grid.Column="0" Grid.Row="5">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <StackLayout Padding="15, 5, 5, 5" HorizontalOptions="StartAndExpand" Orientation="Vertical">
+                <Label Text="{Binding}" TextColor="Black" YAlign="Center" FontSize="24" />
+              </StackLayout>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+
+
+
+    </Grid>
+
+  </StackLayout>
+
+</ContentPage>
+
+
+
+
+  
+  
+  
+  
+  

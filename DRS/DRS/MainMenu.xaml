@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.MainMenu" BackgroundImage="List.jpg">
+
+
+  <StackLayout VerticalOptions="CenterAndExpand">
+    <Image Source="DRS.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill"/>
+    <Grid >
+      <Grid.RowDefinitions>
+
+        <RowDefinition Height="300"/>
+        <RowDefinition Height="300"/>
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        
+     
+      </Grid.ColumnDefinitions>
+
+
+      <Image Source="SearchR.png" VerticalOptions="FillAndExpand"
+               HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="0"     />
+      
+      <Button VerticalOptions="Fill" HorizontalOptions="Fill" Grid.Row="0" Grid.Column="0"  
+              BorderColor="Transparent" Clicked="Next" BackgroundColor="Transparent"/>
+
+      <Label VerticalOptions="EndAndExpand" Grid.Row="0" Grid.Column="0" 
+             Text="Search" HorizontalOptions="CenterAndExpand" FontSize="30" TextColor="Black" FontAttributes="Bold" />
+      
+      
+
+      <Image Source="Profile.png" VerticalOptions="FillAndExpand"
+              HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="1"     />
+
+      <Button BackgroundColor="Transparent" VerticalOptions="Fill" HorizontalOptions="Fill" 
+              Grid.Row="0" Grid.Column="1"  BorderColor="Transparent"/>
+      
+      <Label VerticalOptions="EndAndExpand" Grid.Row="0" Grid.Column="1" Text="Edit Profile" 
+             HorizontalOptions="CenterAndExpand" FontSize="30" TextColor="Black" FontAttributes="Bold" />
+      
+      
+      
+      <Image Source="settings.png" VerticalOptions="FillAndExpand"          
+               HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="2"     />
+
+      <Button BackgroundColor="Transparent" VerticalOptions="Fill" HorizontalOptions="Fill" 
+              Grid.Row="0" Grid.Column="2" Clicked="settings"  BorderColor="Transparent"/>
+      
+      <Label VerticalOptions="EndAndExpand" Grid.Row="0" Grid.Column="2" Text="Settings" 
+             HorizontalOptions="CenterAndExpand"  FontSize="30"  TextColor="Black" FontAttributes="Bold"/>
+
+
+
+      <Image Source="history.png" VerticalOptions="FillAndExpand"
+             HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="0"     />
+
+      <Button BackgroundColor="Transparent" VerticalOptions="Fill" HorizontalOptions="Fill"
+              Grid.Row="1" Grid.Column="0"  BorderColor="Transparent"/>
+      
+      <Label VerticalOptions="EndAndExpand" Grid.Row="1" Grid.Column="0" Text="History" 
+             HorizontalOptions="CenterAndExpand" FontSize="30" TextColor="Black" FontAttributes="Bold"/>
+
+
+      
+      <Image Source="help.png" VerticalOptions="FillAndExpand"
+               HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="1"/>
+
+      <Button BackgroundColor="Transparent" VerticalOptions="Fill" HorizontalOptions="Fill" 
+              Grid.Row="1" Grid.Column="1"  BorderColor="Transparent"/>
+      
+      <Label VerticalOptions="EndAndExpand" Grid.Row="1" Grid.Column="1" Text="Help" 
+             HorizontalOptions="CenterAndExpand" FontSize="30" TextColor="Black" FontAttributes="Bold"/>
+
+
+      <Image Source="Complaint.png" VerticalOptions="FillAndExpand"
+               HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="2"     />
+
+      <Button  BackgroundColor="Transparent" VerticalOptions="Fill" HorizontalOptions="Fill" Grid.Row="1"
+               Grid.Column="2"  BorderColor="Transparent"/>
+      
+      <Label VerticalOptions="EndAndExpand" Grid.Row="1" Grid.Column="2" Text="Complaints"
+             HorizontalOptions="CenterAndExpand" FontSize="28" TextColor="Black" FontAttributes="Bold"/>
+
+
+
+    </Grid>
+  </StackLayout>
+  
+  
+  
+</ContentPage>

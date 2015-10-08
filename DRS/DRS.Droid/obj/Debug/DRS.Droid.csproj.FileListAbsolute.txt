@@ -1,0 +1,134 @@
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.pdb
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll.mdb
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.apk
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid-Signed.apk
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.pdb
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll.mdb
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.dll
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.pdb
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\android\bin\DRS.Droid.apk
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\R.cs.flag
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\uploadflags.txt
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\complaint.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\drs.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\hall.jpg
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\help.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\history.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\list.jpg
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\profile.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\searchr.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\settings.png
+C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\stc4.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll.config
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.pdb
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.apk
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid-Signed.apk
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\FormsViewGroup.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Newtonsoft.Json.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.pdb
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll.mdb
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Newtonsoft.Json.xml
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.csprojResolveAssemblyReference.cache
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.dll
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.pdb
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\android\bin\DRS.Droid.apk
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\icon.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\complaint.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\drs.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\hall.jpg
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\help.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\history.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\list.jpg
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\profile.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\searchr.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\settings.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\stc4.png
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\R.cs.flag
+D:\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\uploadflags.txt
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll.config
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.pdb
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.apk
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid-Signed.apk
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.pdb
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll.mdb
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.dll
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.pdb
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\android\bin\DRS.Droid.apk
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\R.cs.flag
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\uploadflags.txt
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\a1.jpg
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\titlename.png
+C:\Users\Darko\Desktop\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\ar\DRS.resources.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll.config
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.pdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid.apk
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.Droid-Signed.apk
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.pdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\DRS.dll.mdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\bin\Debug\ar\DRS.resources.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\DRS.Droid.pdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\android\bin\DRS.Droid.apk
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\a1.jpg
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\logo.png
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\res\drawable\titlename.png
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\R.cs.flag
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.Droid\obj\Debug\uploadflags.txt

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.GroupChat">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  
+  <StackLayout>
+
+    <Grid>
+
+      <Grid.RowDefinitions>
+
+        <RowDefinition Height="150"></RowDefinition>
+
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+
+        <ColumnDefinition Width="*"></ColumnDefinition>
+
+      </Grid.ColumnDefinitions>
+
+      
+      <Grid Grid.Row="0" RowSpacing="0" ColumnSpacing="0" BackgroundColor="Purple" HorizontalOptions="FillAndExpand" Opacity="0.6" VerticalOptions="FillAndExpand" x:Name="Create"  >
+
+        <Image  Grid.Row="1" Source="user.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Scale="1.3"/>
+        <Label Text="Dr. Ahmed Aleissa" Grid.Row="2"   FontSize="30"  TextColor="White"   HeightRequest="10"  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+        <Label Text="Riyadh , Security Forces , Surgery" Grid.Row="3"       FontSize="30"  TextColor="White"   HeightRequest="10"  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+
+      </Grid>
+
+
+    </Grid>
+
+    <Entry VerticalOptions="EndAndExpand" HorizontalOptions="FillAndExpand" />
+  </StackLayout>
+</ContentPage>

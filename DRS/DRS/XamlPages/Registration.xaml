@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               xmlns:local="clr-namespace:DRS;assembly=DRS"
+             x:Class="DRS.Registration"  BackgroundImage="A1.jpg">
+
+  <StackLayout>
+
+    <Image Source="LOGO.png"   VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+
+    <ContentView Padding="0,10,0,0" >
+      <Grid >
+        <Grid.RowDefinitions>
+
+          <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+        <local:EntryTitle TextColor="Black"   Placeholder="Enter Username"
+                     Grid.Row="0" VerticalOptions="Center"
+                     HorizontalOptions="Fill"
+                     BackgroundColor="Transparent" x:Name="EntryTitle" />
+
+        <local:EntryTitle TextColor="Black"   Placeholder="Enter Email"
+                      Grid.Row="1" VerticalOptions="Center"
+                      HorizontalOptions="Fill"
+                      BackgroundColor="Transparent" x:Name="EntryTitle2" />
+
+        <local:EntryTitle   TextColor="Black"   Placeholder="Enter Password "
+             Grid.Row="2"
+             VerticalOptions="Center"
+             HorizontalOptions="Fill" BackgroundColor="Transparent" x:Name="EntryTitle3" />
+
+        <local:EntryTitle     TextColor="Black"   Placeholder=" Re-Enter Password "
+           Grid.Row="3"
+           VerticalOptions="Center"
+           HorizontalOptions="Fill" BackgroundColor="Transparent" x:Name="EntryTitle4" />
+
+        <local:EntryTitle   TextColor="Black"   Placeholder="Enter Mobile Number"
+              Grid.Row="4" VerticalOptions="Center"
+              HorizontalOptions="Fill"
+              BackgroundColor="Transparent"   x:Name="EntryTitle5" />
+
+
+
+        <Button FontSize="30"  WidthRequest="200" HeightRequest="100"
+            Text="Register" VerticalOptions="Center"
+            HorizontalOptions="FillAndExpand" Clicked="Registered" Grid.Row="5"  BackgroundColor="Purple"   TextColor="White"  />
+
+      </Grid>
+    </ContentView >
+
+
+
+
+
+  </StackLayout>
+</ContentPage>
