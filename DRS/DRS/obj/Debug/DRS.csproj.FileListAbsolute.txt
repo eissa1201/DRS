@@ -256,3 +256,6 @@ C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Deb
 C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.pdb
 C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache
 C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\GroupChat.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\CitySearch.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\HospitalSearch.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\SpecialtySearch.xaml.g.cs

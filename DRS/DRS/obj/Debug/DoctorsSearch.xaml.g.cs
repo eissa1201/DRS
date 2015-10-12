@@ -16,43 +16,31 @@ namespace DRS {
     
     public partial class DoctorsSearch : ContentPage {
         
-        private Label thePickerlabel;
+        private Button City;
         
-        private global::DRS.ListOfCities ListOfCities;
+        private ActivityIndicator CityLoad;
         
-        private ActivityIndicator Loading1;
+        private Button Hospital;
         
-        private Label thePicker2label;
+        private ActivityIndicator HospitalLoad;
         
-        private ActivityIndicator Loading2;
+        private Button Specialty;
         
-        private global::DRS.ListOfCities ListOfHospitals;
+        private ActivityIndicator SpecialtyLoad;
         
-        private Label thePicker3label;
-        
-        private global::DRS.ListOfCities ListOfSpecialties;
-        
-        private ActivityIndicator Loading3;
-        
-        private ActivityIndicator loading;
-        
-        private Button Search;
+        private Button SearchButton;
         
         private Button Cover;
         
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(DoctorsSearch));
-            thePickerlabel = this.FindByName<Label>("thePickerlabel");
-            ListOfCities = this.FindByName<global::DRS.ListOfCities>("ListOfCities");
-            Loading1 = this.FindByName<ActivityIndicator>("Loading1");
-            thePicker2label = this.FindByName<Label>("thePicker2label");
-            Loading2 = this.FindByName<ActivityIndicator>("Loading2");
-            ListOfHospitals = this.FindByName<global::DRS.ListOfCities>("ListOfHospitals");
-            thePicker3label = this.FindByName<Label>("thePicker3label");
-            ListOfSpecialties = this.FindByName<global::DRS.ListOfCities>("ListOfSpecialties");
-            Loading3 = this.FindByName<ActivityIndicator>("Loading3");
-            loading = this.FindByName<ActivityIndicator>("loading");
-            Search = this.FindByName<Button>("Search");
+            City = this.FindByName<Button>("City");
+            CityLoad = this.FindByName<ActivityIndicator>("CityLoad");
+            Hospital = this.FindByName<Button>("Hospital");
+            HospitalLoad = this.FindByName<ActivityIndicator>("HospitalLoad");
+            Specialty = this.FindByName<Button>("Specialty");
+            SpecialtyLoad = this.FindByName<ActivityIndicator>("SpecialtyLoad");
+            SearchButton = this.FindByName<Button>("SearchButton");
             Cover = this.FindByName<Button>("Cover");
         }
     }

@@ -37,7 +37,7 @@ namespace DRS
           
             List<DoctorsValues> Doctors = new List<DoctorsValues>();
 
-            for (int i = 0; i < DoctorsInformation.Count / 4; i++)
+            for (int i = 0; i <= (DoctorsInformation.Count / 4 ); i++)
             {
                 Doctors.Add(new DoctorsValues(DoctorsInformation[i + i + i], DoctorsInformation[i + i + i + 1], DoctorsInformation[i + i + i + 2], new Command<string>((name) =>
                 {

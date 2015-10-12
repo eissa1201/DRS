@@ -1,7 +1,7 @@
-﻿<xapCache source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/6/2015 3:43:47 PM">
-  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\obj\Debug\DRS.WinPhone.dll" archivePath="DRS.WinPhone.dll" lastWriteTime="10/6/2015 3:43:41 PM" />
-  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\obj\Debug\ar\DRS.WinPhone.resources.dll" archivePath="ar\DRS.WinPhone.resources.dll" lastWriteTime="10/6/2015 3:43:42 PM" />
-  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\ar\DRS.resources.dll" archivePath="ar\DRS.resources.dll" lastWriteTime="10/6/2015 3:43:37 PM" />
+﻿<xapCache source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/11/2015 3:22:08 PM">
+  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\obj\Debug\DRS.WinPhone.dll" archivePath="DRS.WinPhone.dll" lastWriteTime="10/11/2015 3:22:01 PM" />
+  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\obj\Debug\ar\DRS.WinPhone.resources.dll" archivePath="ar\DRS.WinPhone.resources.dll" lastWriteTime="10/11/2015 3:22:02 PM" />
+  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\ar\DRS.resources.dll" archivePath="ar\DRS.resources.dll" lastWriteTime="10/11/2015 3:21:57 PM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\A1.jpg" archivePath="A1.jpg" lastWriteTime="9/9/2015 9:29:01 PM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Assets\Tiles\8jtQwdKJbZGXdWY4dSaA2k9jYXztgPJ50kuzTbn1U-Q.png" archivePath="Assets\Tiles\8jtQwdKJbZGXdWY4dSaA2k9jYXztgPJ50kuzTbn1U-Q.png" lastWriteTime="9/9/2015 9:29:01 PM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\LOGO.png" archivePath="LOGO.png" lastWriteTime="9/9/2015 9:29:01 PM" />
@@ -22,7 +22,7 @@
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\user.png" archivePath="user.png" lastWriteTime="10/4/2015 11:56:56 AM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/15/2015 1:39:31 PM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="9/9/2015 9:29:01 PM" />
-  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll" archivePath="DRS.dll" lastWriteTime="10/6/2015 3:43:36 PM" />
+  <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll" archivePath="DRS.dll" lastWriteTime="10/11/2015 3:21:56 PM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="9/9/2015 9:29:02 PM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="9/9/2015 9:29:01 PM" />
   <file source="C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="9/9/2015 9:29:01 PM" />

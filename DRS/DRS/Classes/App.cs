@@ -24,7 +24,7 @@ namespace DRS
 
         public Page GetMainPage()
         {
-            return new NavigationPage(new WelcomePage());
+            return new NavigationPage(new DoctorsSearch("ahmed"));
         }
 
     }
